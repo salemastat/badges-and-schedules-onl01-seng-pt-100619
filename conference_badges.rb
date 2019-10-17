@@ -1,2 +1,2 @@
 badge_maker(name)
-puts Hello my
+puts Hello my name is #{name}
